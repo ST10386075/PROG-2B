@@ -1,0 +1,131 @@
+﻿<Window x:Class="MontlyClaims.SubmitMonthlyClaims"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MontlyClaims"
+        mc:Ignorable="d"
+        Title="Submit Monthly Claims - Lecturer" 
+        Height="700" 
+        Width="900"
+        WindowStartupLocation="CenterOwner"
+        Background="#f8f9fa"
+        ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#27ae60" CornerRadius="8" Padding="20" Margin="0,0,0,20">
+            <TextBlock Text="Submit Monthly Claims" 
+                       Foreground="White" 
+                       FontSize="22" 
+                       FontWeight="Bold" 
+                       HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Main Form -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+
+                <!-- Claim Details -->
+                <Border Background="White" CornerRadius="8" Padding="25" BorderThickness="1" BorderBrush="#e0e0e0" Margin="0,0,0,20">
+                    <StackPanel>
+                        <TextBlock Text="Claim Details" FontSize="18" FontWeight="Bold" Foreground="#2c3e50" Margin="0,0,0,20"/>
+
+                        <!-- Month -->
+                        <StackPanel Margin="0,0,0,15">
+                            <TextBlock Text="Claim Month *" FontSize="14" FontWeight="SemiBold" Foreground="#2c3e50" Margin="0,0,0,5"/>
+                            <ComboBox x:Name="cmbMonth" FontSize="14" Padding="12" BorderThickness="1" BorderBrush="#bdc3c7" Height="40">
+                                <ComboBoxItem Content="January"/>
+                                <ComboBoxItem Content="February"/>
+                                <ComboBoxItem Content="March"/>
+                                <ComboBoxItem Content="April"/>
+                                <ComboBoxItem Content="May"/>
+                                <ComboBoxItem Content="June"/>
+                                <ComboBoxItem Content="July"/>
+                                <ComboBoxItem Content="August"/>
+                                <ComboBoxItem Content="September"/>
+                                <ComboBoxItem Content="October"/>
+                                <ComboBoxItem Content="November"/>
+                                <ComboBoxItem Content="December"/>
+                            </ComboBox>
+                        </StackPanel>
+
+                        <!-- Year -->
+                        <StackPanel Margin="0,0,0,15">
+                            <TextBlock Text="Claim Year *" FontSize="14" FontWeight="SemiBold" Foreground="#2c3e50" Margin="0,0,0,5"/>
+                            <ComboBox x:Name="cmbYear" FontSize="14" Padding="12" BorderThickness="1" BorderBrush="#bdc3c7" Height="40"/>
+                        </StackPanel>
+
+                        <!-- Hours Worked -->
+                        <StackPanel Margin="0,0,0,15">
+                            <TextBlock Text="Hours Worked *" FontSize="14" FontWeight="SemiBold" Foreground="#2c3e50" Margin="0,0,0,5"/>
+                            <TextBox x:Name="txtHoursWorked" Text="0" FontSize="14" Padding="12" BorderThickness="1" BorderBrush="#bdc3c7" Height="40" PreviewTextInput="NumberValidationTextBox"/>
+                            <TextBlock Text="Enter total hours worked this month" FontSize="11" Foreground="#7f8c8d" Margin="0,5,0,0"/>
+                        </StackPanel>
+
+                        <!-- Hourly Rate -->
+                        <StackPanel Margin="0,0,0,15">
+                            <TextBlock Text="Hourly Rate (Rands) *" FontSize="14" FontWeight="SemiBold" Foreground="#2c3e50" Margin="0,0,0,5"/>
+                            <TextBox x:Name="txtHourlyRate" Text="50.00" FontSize="14" Padding="12" BorderThickness="1" BorderBrush="#bdc3c7" Height="40" PreviewTextInput="DecimalValidationTextBox"/>
+                            <TextBlock Text="Enter your hourly rate in Rands" FontSize="11" Foreground="#7f8c8d" Margin="0,5,0,0"/>
+                        </StackPanel>
+
+                        <!-- Total Amount -->
+                        <StackPanel Margin="0,0,0,15">
+                            <TextBlock Text="Total Claim Amount" FontSize="14" FontWeight="SemiBold" Foreground="#2c3e50" Margin="0,0,0,5"/>
+                            <Border Background="#ecf0f1" CornerRadius="4" Padding="12" Height="40">
+                                <TextBlock x:Name="txtTotalAmount" Text="$0.00" FontSize="14" FontWeight="Bold" Foreground="#27ae60" VerticalAlignment="Center"/>
+                            </Border>
+                            <TextBlock Text="Calculated automatically: Hours × Rate" FontSize="11" Foreground="#7f8c8d" Margin="0,5,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+
+                <!-- Additional Notes -->
+                <Border Background="White" CornerRadius="8" Padding="25" BorderThickness="1" BorderBrush="#e0e0e0" Margin="0,0,0,20">
+                    <StackPanel>
+                        <TextBlock Text="Additional Notes" FontSize="18" FontWeight="Bold" Foreground="#2c3e50" Margin="0,0,0,15"/>
+                        <TextBox x:Name="txtNotes" FontSize="14" Padding="12" BorderThickness="1" BorderBrush="#bdc3c7" Height="100" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" MaxLength="500"/>
+                        <TextBlock Text="Optional: Add any additional information (max 500 characters)" FontSize="11" Foreground="#7f8c8d" Margin="0,5,0,0"/>
+                        <TextBlock x:Name="txtCharacterCount" Text="0/500 characters" FontSize="11" Foreground="#7f8c8d" HorizontalAlignment="Right" Margin="0,5,0,0"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Supporting Documents -->
+                <Border Background="White" CornerRadius="8" Padding="25" BorderThickness="1" BorderBrush="#e0e0e0" Margin="0,0,0,20">
+                    <StackPanel>
+                        <TextBlock Text="Supporting Documents" FontSize="18" FontWeight="Bold" Foreground="#2c3e50" Margin="0,0,0,15"/>
+
+                        <Border Background="#f8f9fa" BorderBrush="#bdc3c7" BorderThickness="1" CornerRadius="6" Padding="20" Margin="0,0,0,15">
+                            <StackPanel HorizontalAlignment="Center">
+                                <Button x:Name="btnUpload" Content="📎 Upload Document" Width="200" Height="45" Background="#3498db" Foreground="White" FontSize="14" FontWeight="SemiBold" BorderThickness="0" Cursor="Hand" Click="btnUpload_Click"/>
+                                <TextBlock Text="Supported formats: PDF, DOCX, XLSX (Max: 10MB)" FontSize="11" Foreground="#7f8c8d" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <StackPanel>
+                            <TextBlock Text="Uploaded Files:" FontSize="14" FontWeight="SemiBold" Foreground="#2c3e50" Margin="0,0,0,10"/>
+                            <ItemsControl x:Name="lstUploadedFiles"/>
+                            <TextBlock x:Name="txtNoFiles" Text="No files uploaded yet" FontSize="12" Foreground="#95a5a6" FontStyle="Italic" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Submit Buttons -->
+        <Border Grid.Row="2" Background="White" CornerRadius="8" Padding="20" BorderThickness="1" BorderBrush="#e0e0e0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="btnCancel" Content="Cancel" Width="120" Height="50" Background="#95a5a6" Foreground="White" FontSize="14" FontWeight="SemiBold" BorderThickness="0" Cursor="Hand" Click="btnCancel_Click" Margin="0,0,20,0"/>
+                <Button x:Name="btnSubmit" Content="SUBMIT CLAIM" Width="200" Height="50" Background="#27ae60" Foreground="White" FontSize="16" FontWeight="Bold" BorderThickness="0" Cursor="Hand" Click="btnSubmit_Click"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
+

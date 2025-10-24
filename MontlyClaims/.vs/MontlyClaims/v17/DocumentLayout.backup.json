@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\viewclaims.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\viewclaims.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\viewclaims.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\viewclaims.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\lecturerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\lecturerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\coordinatorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\coordinatorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\submitmonthlyclaims.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\submitmonthlyclaims.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|c:\\users\\rc_student_lab\\source\\repos\\montlyclaims\\montlyclaims\\submitmonthlyclaims.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\submitmonthlyclaims.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\lecturerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\lecturerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\coordinatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\coordinatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\editpersonalinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\editpersonalinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\montlyclaims\\editpersonalinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{596CBCC8-F299-4840-A800-CE98E4A1BA40}|MontlyClaims\\MontlyClaims.csproj|solutionrelative:montlyclaims\\editpersonalinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmitMonthlyClaims.xaml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\SubmitMonthlyClaims.xaml",
+              "RelativeDocumentMoniker": "MontlyClaims\\SubmitMonthlyClaims.xaml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\SubmitMonthlyClaims.xaml",
+              "RelativeToolTip": "MontlyClaims\\SubmitMonthlyClaims.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T18:22:16.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoordinatorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\CoordinatorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MontlyClaims\\CoordinatorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\CoordinatorWindow.xaml.cs",
+              "RelativeToolTip": "MontlyClaims\\CoordinatorWindow.xaml.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:54:35.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewClaims.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\ViewClaims.xaml.cs",
+              "RelativeDocumentMoniker": "MontlyClaims\\ViewClaims.xaml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\ViewClaims.xaml.cs",
+              "RelativeToolTip": "MontlyClaims\\ViewClaims.xaml.cs",
+              "ViewState": "AgIAAFIAAAAgMzMzM7MewGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:35:59.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubmitMonthlyClaims.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\SubmitMonthlyClaims.xaml.cs",
+              "RelativeDocumentMoniker": "MontlyClaims\\SubmitMonthlyClaims.xaml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\SubmitMonthlyClaims.xaml.cs",
+              "RelativeToolTip": "MontlyClaims\\SubmitMonthlyClaims.xaml.cs",
+              "ViewState": "AgIAAGEAAACAyszMzEwTwHQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:06:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewClaims.xaml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\ViewClaims.xaml",
+              "RelativeDocumentMoniker": "MontlyClaims\\ViewClaims.xaml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\ViewClaims.xaml",
+              "RelativeToolTip": "MontlyClaims\\ViewClaims.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T18:40:38.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditPersonalInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\EditPersonalInfo.xaml.cs",
+              "RelativeDocumentMoniker": "MontlyClaims\\EditPersonalInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\EditPersonalInfo.xaml.cs",
+              "RelativeToolTip": "MontlyClaims\\EditPersonalInfo.xaml.cs",
+              "ViewState": "AgIAABYAAAAAmpmZmdkrwJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T18:37:40.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditPersonalInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\EditPersonalInfo.xaml",
+              "RelativeDocumentMoniker": "MontlyClaims\\EditPersonalInfo.xaml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\EditPersonalInfo.xaml",
+              "RelativeToolTip": "MontlyClaims\\EditPersonalInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T18:23:11.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\LecturerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MontlyClaims\\LecturerWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\LecturerWindow.xaml.cs",
+              "RelativeToolTip": "MontlyClaims\\LecturerWindow.xaml.cs",
+              "ViewState": "AgIAADEAAACgZmZmZmYiwEkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T18:19:31.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoordinatorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\CoordinatorWindow.xaml",
+              "RelativeDocumentMoniker": "MontlyClaims\\CoordinatorWindow.xaml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\CoordinatorWindow.xaml",
+              "RelativeToolTip": "MontlyClaims\\CoordinatorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T17:41:53.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LecturerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\LecturerWindow.xaml",
+              "RelativeDocumentMoniker": "MontlyClaims\\LecturerWindow.xaml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\LecturerWindow.xaml",
+              "RelativeToolTip": "MontlyClaims\\LecturerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T17:41:22.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MontlyClaims\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\MainWindow.xaml",
+              "RelativeToolTip": "MontlyClaims\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-23T17:32:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MontlyClaims\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\RC_Student_Lab\\source\\repos\\MontlyClaims\\MontlyClaims\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MontlyClaims\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAADczMzMzAwgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:32:55.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
